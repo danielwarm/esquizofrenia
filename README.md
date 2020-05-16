@@ -1,0 +1,2 @@
+# esquizofrenia
+scripts de esquizofrenia
